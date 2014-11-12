@@ -69,7 +69,7 @@ stripcslashes — Un-quote string quoted with addcslashes
 stripos — Find the position of the first occurrence of a case-insensitive substring in a string    
 stripslashes — Un-quotes a quoted string    
 stristr — Case-insensitive strstr      
-strlen — Get string length    
+~~strlen — Get string length~~    
 strnatcasecmp — Case insensitive string comparisons using a "natural order" algorithm    
 strnatcmp — String comparisons using a "natural order" algorithm    
 strncasecmp — Binary safe case-insensitive string comparison of the first n characters    
@@ -90,7 +90,7 @@ substr_compare — Binary safe comparison of two strings from an offset, up to l
 substr_count — Count the number of substring occurrences    
 substr_replace — Replace text within a portion of a string    
 substr — Return part of a string    
-trim — Strip whitespace (or other characters) from the beginning  and end of a string    
+~~trim — Strip whitespace (or other characters) from the beginning  and end of a string~~    
 ucfirst — Make a string's first character uppercase    
 ucwords — Uppercase the first character of each word in a string     
 vfprintf — Write a formatted string to a stream    
