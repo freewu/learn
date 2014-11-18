@@ -23,14 +23,14 @@ html_entity_decode — Convert all HTML entities to their applicable characters
 htmlentities — Convert all applicable characters to HTML entities    
 htmlspecialchars_decode — Convert special HTML entities back to characters    
 htmlspecialchars — Convert special characters to HTML entities    
-implode — Join array elements with a string    
-join — Alias of implode    
+~~implode — Join array elements with a string~~    
+~~join — Alias of implode~~    
 lcfirst — Make a string's first character lowercase    
 levenshtein — Calculate Levenshtein distance between two strings    
 localeconv — Get numeric formatting information    
-ltrim — Strip whitespace (or other characters) from the beginning  of a string    
+~~ltrim — Strip whitespace (or other characters) from the beginning  of a string~~    
 md5_file — Calculates the md5 hash of a given file    
-md5 — Calculate the md5 hash of a string    
+~~md5 — Calculate the md5 hash of a string~~    
 metaphone — Calculate the metaphone key of a string    
 money_format — Formats a number as a currency string    
 nl_langinfo — Query language and locale information    
