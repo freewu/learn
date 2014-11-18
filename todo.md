@@ -13,7 +13,7 @@ count_chars — Return information about characters used in a string
 crc32 — Calculates the crc32 polynomial of a string    
 crypt — One-way string hashing    
 ~~echo — Output one or more strings~~    
-explode — Split a string by string    
+~~explode — Split a string by string~~    
 fprintf — Write a formatted string to a stream    
 get_html_translation_table — Returns the translation table used by htmlspecialchars and htmlentities    
 hebrev — Convert logical Hebrew text to visual text    
@@ -82,10 +82,10 @@ strrev — Reverse a string
 strripos — Find the position of the last occurrence of a case-insensitive substring in a string    
 strrpos — Find the position of the last occurrence of a substring in a string    
 strspn — Finds the length of the initial segment of a string consisting entirely of characters contained within a given mask.    
-strstr — Find the first occurrence of a string    
+~~strstr — Find the first occurrence of a string~~    
 strtok — Tokenize string    
-strtolower — Make a string lowercase    
-strtoupper — Make a string uppercase    
+~~strtolower — Make a string lowercase~~    
+~~strtoupper — Make a string uppercase~~    
 strtr — Translate characters or replace substrings    
 substr_compare — Binary safe comparison of two strings from an offset, up to length characters    
 substr_count — Count the number of substring occurrences    
