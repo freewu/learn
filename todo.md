@@ -46,7 +46,7 @@ quotemeta — Quote meta characters
 ~~rtrim — Strip whitespace (or other characters) from the end of a string~~    
 setlocale — Set locale information    
 sha1_file — Calculate the sha1 hash of a file     
-sha1 — Calculate the sha1 hash of a string    
+~~sha1 — Calculate the sha1 hash of a string~~    
 similar_text — Calculate the similarity between two strings    
 soundex — Calculate the soundex key of a string    
 sprintf — Return a formatted string    
@@ -54,7 +54,7 @@ sscanf — Parses input from a string according to a format
 str_getcsv — Parse a CSV string into an array    
 str_ireplace — Case-insensitive version of str_replace.    
 str_pad — Pad a string to a certain length with another string    
-str_repeat — Repeat a string    
+~~str_repeat — Repeat a string~~    
 ~~str_replace — Replace all occurrences of the search string with the replacement string~~    
 str_rot13 — Perform the rot13 transform on a string    
 str_shuffle — Randomly shuffles a string    
@@ -92,7 +92,7 @@ substr_count — Count the number of substring occurrences
 substr_replace — Replace text within a portion of a string    
 ~~substr — Return part of a string~~    
 ~~trim — Strip whitespace (or other characters) from the beginning  and end of a string~~    
-ucfirst — Make a string's first character uppercase    
+~~ucfirst — Make a string's first character uppercase~~    
 ucwords — Uppercase the first character of each word in a string     
 vfprintf — Write a formatted string to a stream    
 vprintf — Output a formatted string     
