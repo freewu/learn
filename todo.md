@@ -153,7 +153,11 @@ timezone_open — Alias of DateTimeZone::__construct
 timezone_transitions_get — Alias of DateTimeZone::getTransitions   
 timezone_version_get — Gets the version of the timezonedb   
 
-
+## ==Encoding==
+~~base64_decode — Decodes data encoded with MIME base64~~   
+~~base64_encode — Encodes data with MIME base64~~   
+~~urldecode — Decodes URL-encoded string~~    
+~~urlencode — URL-encodes string~~    
 
 
 
