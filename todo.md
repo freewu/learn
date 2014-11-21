@@ -157,7 +157,9 @@ timezone_version_get — Gets the version of the timezonedb
 ~~base64_decode — Decodes data encoded with MIME base64~~   
 ~~base64_encode — Encodes data with MIME base64~~   
 ~~urldecode — Decodes URL-encoded string~~    
-~~urlencode — URL-encodes string~~    
+~~urlencode — URL-encodes string~~   
+~~json_decode — Decodes a JSON string~~   
+~~json_encode — Returns the JSON representation of a value~~    
 
 
 
