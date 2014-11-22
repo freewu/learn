@@ -27,7 +27,7 @@ array(3) {
 */
 
 type TestJson struct {
-	A int
+	A int   `json:"a"`  // 使用json定义看看
 	B string
 	C []int
 }
@@ -50,7 +50,8 @@ func main() {
 
 	// decode stuct
 	// 字符要处理成byte
-	b1 := []byte(`{"A":1,"B":"x","C":[1,2,3]}`)
+	//b1 := []byte(`{"A":1,"B":"x","C":[1,2,3]}`)
+	b1 := []byte(`{"a":1,"B":"x","C":[1,2,3]}`)
 	var j1 TestJson
 	err = json.Unmarshal(b1,&j1)
 	if err != nil {
@@ -58,7 +59,7 @@ func main() {
 		return
 	}
 	fmt.Printf("%+v\r\n",j1)
-	fmt.Printf("%x\r\n",j1)
+	//fmt.Printf("%x\r\n",j1)
 
 	// encode map
 	m := map[string]int{"apple":5,"pear":6}
