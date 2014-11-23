@@ -76,11 +76,11 @@ strnatcmp — String comparisons using a "natural order" algorithm
 strncasecmp — Binary safe case-insensitive string comparison of the first n characters    
 strncmp — Binary safe string comparison of the first n characters    
 strpbrk — Search a string for any of a set of characters    
-strpos — Find the position of the first occurrence of a substring in a string    
+~~strpos — Find the position of the first occurrence of a substring in a string~~~    
 strrchr — Find the last occurrence of a character in a string    
 strrev — Reverse a string    
 strripos — Find the position of the last occurrence of a case-insensitive substring in a string    
-strrpos — Find the position of the last occurrence of a substring in a string    
+~~strrpos — Find the position of the last occurrence of a substring in a string~~    
 strspn — Finds the length of the initial segment of a string consisting entirely of characters contained within a given mask.    
 ~~strstr — Find the first occurrence of a string~~    
 strtok — Tokenize string    
